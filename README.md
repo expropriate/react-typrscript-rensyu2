@@ -1,2 +1,2 @@
-# react-typrscript-rensyu2
+# react-typescript-test
 Created with CodeSandbox
